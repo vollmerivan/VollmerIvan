@@ -19,8 +19,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/vollmerivan/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/vollmerivan/Test-Cases)
+- [Checklists and Test-Cases](https://github.com/vollmerivan/Test-Cases)
 - [Bug-Reports](https://github.com/vollmerivan/Bug-Reports)
 - [SQL Queries](https://github.com/vollmerivan/SQL)
 - [Postman Collections](https://github.com/vollmerivan/Postman)
