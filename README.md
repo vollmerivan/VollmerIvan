@@ -1,5 +1,11 @@
 ### Hi there 👋
+<<<<<<< HEAD
 It is my portfolio
+=======
+It is my portfolio.
+<!--
+**vollmerivan/VollmerIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>>>>>>> e5963bfe79743cb9a353b6fcedb0ad95aca6a4d0
 
 
 ## I'm a QA Engineer Junior. 
