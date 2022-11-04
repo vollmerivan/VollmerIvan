@@ -1,5 +1,5 @@
 ### Hi there 👋
-It is my portfolio
+It is my portfolio.
 <!--
 **vollmerivan/VollmerIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
