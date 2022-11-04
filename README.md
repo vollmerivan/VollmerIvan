@@ -1,7 +1,7 @@
-[![Header](https://github.com/vollmerivan/VollmerIvan/blob/main/assets/logo.jpg)]
-### Hi there 👋
+![Header](https://github.com/vollmerivan/VollmerIvan/blob/main/assets/logo.jpg)
+### Всем привет 👋
 
-It is my portfolio
+Это мое портфолио на Git Hub
 =======
 
 
@@ -10,7 +10,6 @@ It is my portfolio
 ## My CV
 [Link to my CV](https://spb.hh.ru/applicant/resumes/view?resume=3edca845ff09e6923b0039ed1f454b326c5072)
 
-
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -18,12 +17,11 @@ It is my portfolio
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 
-
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [Checklists](https://github.com/vollmerivan/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/vollmerivan/Test-Cases)
+- [Bug-Reports](https://github.com/vollmerivan/Bug-Reports)
 - [SQL Queries](https://github.com/vollmerivan/SQL)
 - [Postman Collections](https://github.com/vollmerivan/Postman)
 
