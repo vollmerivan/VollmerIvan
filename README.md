@@ -1,7 +1,7 @@
 ### Hi there 👋
 It is my portfolio
 
-[![Header](https://github.com/vollmerivan/vollmerivan/blob/main/assets/logo.jpg)]
+
 ## I'm a QA Engineer Junior. 
 
 ## My CV
